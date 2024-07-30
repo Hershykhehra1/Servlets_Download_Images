@@ -1,7 +1,3 @@
-Certainly! Here’s a project structure description for your user management and file download system:
-
----
-
 ## Project Structure
 
 The project is divided into several components:
